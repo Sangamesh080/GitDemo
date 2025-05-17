@@ -1,1 +1,1 @@
-print("Hello Buddy!!!! Besant Technologies Version 8")
+prin("Hello Buddy!!!! Besant Technologies Version 8")
